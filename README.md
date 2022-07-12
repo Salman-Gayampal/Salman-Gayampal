@@ -2,6 +2,7 @@
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ... HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on ... Web Dev Projects
+- 💞️ I am learning every day in every way :)
 
 
 <!---
